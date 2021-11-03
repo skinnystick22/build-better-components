@@ -27,7 +27,6 @@ class MyDocument extends Document {
                         href="https://fonts.googleapis.com/css?family=Open+Sans"
                         rel="stylesheet"
                     />
-                    <link href="css/local-styles.css" rel="stylesheet"/>
                 </Head>
                 <body>
                 <Main/>
